@@ -1,0 +1,12 @@
+D:\ClientApp\bin\Debug\netcoreapp3.1\ClientApp.exe
+D:\ClientApp\bin\Debug\netcoreapp3.1\ClientApp.dll
+D:\ClientApp\obj\Debug\netcoreapp3.1\ClientApp.AssemblyInfoInputs.cache
+D:\ClientApp\obj\Debug\netcoreapp3.1\ClientApp.AssemblyInfo.cs
+D:\ClientApp\obj\Debug\netcoreapp3.1\ClientApp.csproj.CoreCompileInputs.cache
+D:\ClientApp\obj\Debug\netcoreapp3.1\ClientApp.dll
+D:\ClientApp\obj\Debug\netcoreapp3.1\ClientApp.pdb
+D:\ClientApp\bin\Debug\netcoreapp3.1\ClientApp.deps.json
+D:\ClientApp\bin\Debug\netcoreapp3.1\ClientApp.runtimeconfig.json
+D:\ClientApp\bin\Debug\netcoreapp3.1\ClientApp.runtimeconfig.dev.json
+D:\ClientApp\bin\Debug\netcoreapp3.1\ClientApp.pdb
+D:\ClientApp\obj\Debug\netcoreapp3.1\ClientApp.genruntimeconfig.cache
