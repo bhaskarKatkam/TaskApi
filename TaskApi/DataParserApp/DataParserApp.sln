@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataParserApp", "DataParserApp.csproj", "{7738BA8D-D84F-4E83-B627-6E46F8D7F243}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataParserUnitTest", "..\DataParserUnitTest\DataParserUnitTest.csproj", "{A94A1253-1F99-4D4C-A68F-D099FA184983}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7738BA8D-D84F-4E83-B627-6E46F8D7F243}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7738BA8D-D84F-4E83-B627-6E46F8D7F243}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7738BA8D-D84F-4E83-B627-6E46F8D7F243}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7738BA8D-D84F-4E83-B627-6E46F8D7F243}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A94A1253-1F99-4D4C-A68F-D099FA184983}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A94A1253-1F99-4D4C-A68F-D099FA184983}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A94A1253-1F99-4D4C-A68F-D099FA184983}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A94A1253-1F99-4D4C-A68F-D099FA184983}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30EC46AE-09B3-4506-ADC4-1E71E15232A8}
+	EndGlobalSection
+EndGlobal
